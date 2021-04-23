@@ -1,0 +1,17 @@
+{
+"companyName": "dhiman blends",
+"productName": "18_Batch_BETA",
+"productVersion": "1.0",
+"dataUrl": "webgl builds.data.unityweb",
+"wasmCodeUrl": "webgl builds.wasm.code.unityweb",
+"wasmFrameworkUrl": "webgl builds.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "webgl builds.jpg",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": true,
+"multithreading": false,
+"unityVersion": "2019.2.5f1"
+}
